@@ -1,0 +1,11 @@
+[package]
+name = "sinput"
+version = "0.1.0"
+authors = ["ID <uddinislam46@gmail.com>"]
+edition = "2018"
+description = "Get user input"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

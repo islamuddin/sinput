@@ -1,0 +1,3 @@
+[submodule "sinput"]
+	path = sinput
+	url = https://github.com/islamuddin/sinput.git
