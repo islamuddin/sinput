@@ -3,7 +3,7 @@ name = "sinput"
 version = "0.1.1"
 authors = ["ID <uddinislam46@gmail.com>"]
 edition = "2018"
-description = "Get user input"
+description = "A simple CLI tool with short functions naming that asks for user input in meaningful way"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
