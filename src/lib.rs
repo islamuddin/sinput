@@ -104,6 +104,7 @@ integer
 }
 
 #[doc="created function to reuse and reduce LOC for f64 input."]
+#[allow(dead_code)]
 pub fn as_f64(message:&str)->(f64){
 #[allow(dead_code)]
 println!("{}",message);
@@ -144,6 +145,7 @@ integer
 }
 
 #[doc="created function to reuse and reduce LOC for u16 input."]
+#[allow(dead_code)]
 pub fn as_u128(message:&str)->(u128){
 println!("{}",message);
 let mut input = String::new();
