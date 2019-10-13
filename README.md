@@ -28,7 +28,7 @@ to your main file.
 You can get input with.
 
 ```rust
-as_f32("any message here");
+sinput::as_f32("any message here");
 ```
 
 Where `as_f32` is the type you want. This currently includes the standard library types `isize`, `usize`, `i8`, `u8`, `i16`, `u16`, `f32`, `i32`, `u32`, `f64`, `i64`, `u64`, `i128`, `u128`, and `String`.
@@ -36,5 +36,5 @@ Where `as_f32` is the type you want. This currently includes the standard librar
 For example, if you want to assign a valid unsigned 32bit value to a variable called `input`, you could write.
 
 ```rust
-let input = as_u32("Enter your u32 input:");
+let input = sinput::as_u32("Enter your u32 input:");
 ```
