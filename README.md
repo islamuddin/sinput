@@ -36,5 +36,5 @@ Where `as_f32` is the type you want. This currently includes the standard librar
 For example, if you want to assign a valid unsigned 32bit value to a variable called `input`, you could write.
 
 ```rust
-let input = as_f32("Enter your f32 input:");
+let input = as_u32("Enter your u32 input:");
 ```
