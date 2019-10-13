@@ -1,6 +1,6 @@
 [package]
 name = "sinput"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ID <uddinislam46@gmail.com>"]
 edition = "2018"
 description = "Get user input"
