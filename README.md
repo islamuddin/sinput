@@ -19,7 +19,7 @@ sinput = "0.1"
 ```
 to your `cargo.toml` under `[dependencies]` and add
 ```rust
-use si::*;
+extern crate sinput;
 ```
 to your main file.
 
@@ -28,7 +28,7 @@ to your main file.
 You can get input with.
 
 ```rust
-as_f32()
+as_f32("any message here");
 ```
 
 Where `as_i32` is the type you want. This currently includes the standard library types `isize`, `usize`, `i8`, `u8`, `i16`, `u16`, `f32`, `i32`, `u32`, `f64`, `i64`, `u64`, `i128`, `u128`, and `String`.
