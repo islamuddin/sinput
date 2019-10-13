@@ -1,5 +1,5 @@
 # Short Input (sinput)
-A simple CLI tool with short functions naming that asks for user input in meaningful way. Get your required rust input using short functions.
+A simple CLI tool with short functions naming that asks for user input in meaningful way. Get your required rust input using short functions. 
 
 ## Help
 
