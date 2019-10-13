@@ -15,7 +15,7 @@ When writing programs you will often need to take input from the user. User have
 
 Add 
 ```toml
-sinput = "0.1"
+sinput = "0.1.5"
 ```
 to your `cargo.toml` under `[dependencies]` and add
 ```rust
